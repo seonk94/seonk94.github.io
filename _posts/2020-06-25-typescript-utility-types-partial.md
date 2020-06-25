@@ -43,4 +43,4 @@ const todo2 = updateTodo(todo1, {
 
 ```
 
-| [Typescript 참고 문서](https://community.algolia.com/jekyll-algolia/options.html)
+| [Typescript 참고 문서](https://www.typescriptlang.org/docs/handbook/utility-types.html#partialt)
