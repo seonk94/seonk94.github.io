@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "FE Blog"
 title_separator          : "Beta Version .1"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "권선규"
+name                     : "BuBa"
 description              : "Front End Developer | Typescript | Javascript"
 url                      : "https://seonk94.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "권선규"
+  name             : "BuBa"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Front End Developer. <br> **Typescript** <br> **Javascript** "
   location         : "Seoul"
