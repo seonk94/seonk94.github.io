@@ -20,7 +20,11 @@ TypeScript는 공통 유형 변환을 용이하게 하기 위해 몇 가지 유�
 
 T의 모든 속성을 옵션으로 설정한 유형을 생성한다. 이 유틸리티는 주어진 유형의 모든 하위 집합을 나타내는 유형을 반환한다.
 
-Example
+---
+
+### Interface Example #1
+
+
 ```ts
 
 interface Todo {
@@ -41,6 +45,35 @@ const todo2 = updateTodo(todo1, {
     description: '물도 사기'
 });
 
+```
+
+
+### Interface Example #2
+
+```ts
+interface Todo {
+    title: string;
+    description: string;
+}
+
+type PartialTodo = Partial<Todo>
+const partialTodo : PartialTodo = { title: '집에 가기' }
+```
+
+### Class Example
+
+
+```ts
+class Student {
+    private id: number;
+    private name: string;
+    private age: number;
+    private phone: number;
+
+    constructor(student: Partial<Student>) {
+        Object.assign(this, student);
+    }
+}
 ```
 
 | [Typescript 참고 문서](https://www.typescriptlang.org/docs/handbook/utility-types.html#partialt)
