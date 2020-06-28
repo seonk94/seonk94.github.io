@@ -16,7 +16,7 @@ article_section: Typescript Partial, Pick
 meta_keywords: Typescript,Partial,Pick,Utility-Types,Utility
 ---
 
-TypeScript는 공통 유형 변환을 용이하게 하기 위해 몇 가지 유틸리티 유형을 제공한다. 이러한 유틸리티는 전세계적으로 이용할 수 있다.
+TypeScript는 유틸리티 유형중 Partial, Pick 알아보기.
 
 ## Partial<T>
 
