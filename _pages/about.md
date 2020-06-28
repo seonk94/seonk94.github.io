@@ -1,6 +1,5 @@
 ---
 permalink: /about/
-title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -13,12 +12,17 @@ layouts_gallery:
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
 last_modified_at: 2020-05-01T10:15:22-04:00
-toc: true
+# toc: true
 ---
 
 # Front-End Developer
 
+프론트엔드 개발자 입니다.
+
+--- 
+
 ### Skills
+
 - Javascript
 - Typescript
 - Vue & Nuxt
