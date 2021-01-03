@@ -84,7 +84,7 @@ module.exports = {
 
 이렇게 하면 다음과 같은 빌드 결과가 나타납니다.
 
-```
+```cmd
 ...
 [webpack-cli] Compilation finished
 asset index.bundle.js 553 KiB [emitted] (name: index)
@@ -168,7 +168,7 @@ module.exports = {
 
 빌드결과는 다음과 같습니다.
 
-```
+```cmd
 ...
 [webpack-cli] Compilation finished
 asset shared.bundle.js 549 KiB [compared for emit] (name: shared)
@@ -222,7 +222,7 @@ module.exports = {
 
 빌드 결과
 
-```
+```cmd
 ...
 [webpack-cli] Compilation finished
 asset vendors-node_modules_lodash_lodash_js.bundle.js 549 KiB [compared for emit] (id hint: vendors)
