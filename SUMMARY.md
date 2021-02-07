@@ -1,4 +1,4 @@
-# Study 기록
+# Summary
 
 - Intro
 
