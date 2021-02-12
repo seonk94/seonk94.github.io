@@ -28,3 +28,7 @@
   - [Dynamic Imports](./_posts/web/dynamic_imports.md)
   - [react_code_splitting](./_posts/web/react_code_splitting.md)
   - [vue_code_splitting](./_posts/web/vue_code_splitting.md)
+
+- REACT
+
+  - [Memo](./_posts/react/memo.md)
