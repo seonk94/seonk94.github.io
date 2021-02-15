@@ -33,7 +33,7 @@ Doctype은 또 Document Type Definition, DTD 라고도 합니다.
 
 
 
-# DOCTYPE이 뭐야 안할래
+# DOCTYPE 을 선언 안한다면?
 
 DOCTYPE 을 선언하지 않는다면 웹 브라우저는 quirks mode 로 읽는다.
 
@@ -51,4 +51,4 @@ quirks mode 는 관용모드 또는 비표준 모드라고 읽는듯 하다.
 
  ## 렌더링 모드별로 뭐가 다르죠?
 
- (업데이트 예정)
+??
