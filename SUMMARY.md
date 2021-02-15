@@ -20,6 +20,7 @@
   - [Data and Attr](./_posts/html/data_attr.md)
   - [Script](./_posts/html/script.md)
   - [Storage](./_posts/html/storage.md)
+  - [Head](./_posts/html/head.md)
 
 - WEB
 
