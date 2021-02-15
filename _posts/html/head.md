@@ -54,6 +54,17 @@ started with developing web sites and applications.">
 
 [Open Graph Data](https://ogp.me/) 는 Facebook이 웹 사이트에 더 풍부한 메타 데이터를 제공하기 위해 발명한 메타 데이터 프로토콜이다.
 
+#### OG Basic Metadata
+
+- og:title : `graph`에 나타나야 하는 개체의 제목
+
+- og:type : 개체 유형, 지정한 유형에 따라 다른 속성도 필요할 수 있습니다.
+
+- og:image : `graph` 내의 개체를 나타내야 하는 이미지 URL입니다.
+
+- og:url : `graph`에서 `영구 ID`로 사용될 개체의 표준 URL(예: "https://www.imdb.com/title/tt0117500/")입니다.
+
+
 ```html
 <meta property="og:image" content="https://developer.cdn.mozilla.net/static/img/opengraph-logo.dc4e08e2f6af.png">
 <meta property="og:description" content="The Mozilla Developer Network (MDN) provides
